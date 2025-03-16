@@ -3,5 +3,5 @@ Encoding=UTF-8
 Version=0.0.3
 Type=Application
 Terminal=false
-Exec=python /home/cyber-puki/Documents/Scripts/Display-Manager-rofi-v0.0.5.py
+Exec=python /home/cyber-puki/Documents/Rofi_Display-Manager/Rofi_Display-Manager-v1.0.0.py
 Name=Display Manager
