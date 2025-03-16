@@ -1,0 +1,7 @@
+[Desktop Entry]
+Encoding=UTF-8
+Version=0.0.3
+Type=Application
+Terminal=false
+Exec=python /home/cyber-puki/Documents/Scripts/Display-Manager-rofi-v0.0.5.py
+Name=Display Manager
